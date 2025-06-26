@@ -3,3 +3,6 @@ AWS_SECRET_ACCESS_KEY = "AKIA1234567890123456SAI"
 aws_access_key_id = "AKIA12345678901234"
 aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYzEXAMPLEKEY"
 
+aws_access_key_id = "AKIA12345678901235"
+aws_secret_access_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYzEXAMPLEKEP"
+
